@@ -1,0 +1,6 @@
+@HTTP_5125_Assignment1_HostAddress = http://localhost:5084
+
+GET {{HTTP_5125_Assignment1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
